@@ -16,3 +16,11 @@ Enter the number of rows:
   ***
  ****
 *****
+
+full pyramid.c
+Enter the number of rows:
+    *
+   ***
+  *****
+ *******
+*********
