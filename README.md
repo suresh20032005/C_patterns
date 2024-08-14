@@ -24,3 +24,11 @@ Enter the number of rows:
   *****
  *******
 *********
+
+Inverted half pyramid 
+
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
