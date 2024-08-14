@@ -7,3 +7,12 @@ Enter the rows:
 **
 ***
 ****
+
+
+rightpy.c 14/08/2024 12.18
+Enter the number of rows:
+    *
+   **
+  ***
+ ****
+*****
